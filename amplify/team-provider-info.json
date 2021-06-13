@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-reactspeechmars-dev-00705-authRole",
+      "UnauthRoleArn": "arn:aws:iam::906815961619:role/amplify-reactspeechmars-dev-00705-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::906815961619:role/amplify-reactspeechmars-dev-00705-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-reactspeechmars-dev-00705-deployment",
+      "UnauthRoleName": "amplify-reactspeechmars-dev-00705-unauthRole",
+      "StackName": "amplify-reactspeechmars-dev-00705",
+      "StackId": "arn:aws:cloudformation:us-east-1:906815961619:stack/amplify-reactspeechmars-dev-00705/7d6e8030-ca6a-11eb-b1fa-0acf699c7d11",
+      "AmplifyAppId": "d2g5wzupn20p5g"
+    },
+    "categories": {
+      "auth": {
+        "reactspeechmars2d300eb2": {}
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+    "resourceName": "testranscriptionMars",
+    "convertPolicyName": "transcriptionPolicyd5d95b48",
+    "authRoleName": {
+        "Ref": "AuthRoleName"
+    },
+    "unauthRoleName": {
+        "Ref": "UnauthRoleName"
+    },
+    "convertType": "transcription",
+    "language": "en-US",
+    "access": "authAndGuest"
+}

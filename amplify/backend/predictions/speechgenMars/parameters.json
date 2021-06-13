@@ -1,0 +1,14 @@
+{
+    "resourceName": "speechgenMars",
+    "convertPolicyName": "speechGeneratorPolicyad053ac3",
+    "authRoleName": {
+        "Ref": "AuthRoleName"
+    },
+    "unauthRoleName": {
+        "Ref": "UnauthRoleName"
+    },
+    "convertType": "speechGenerator",
+    "language": "en-US",
+    "voice": "Matthew",
+    "access": "authAndGuest"
+}
